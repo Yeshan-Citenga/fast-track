@@ -1,0 +1,56 @@
+A new area has been created.
+
+The number of Levels: 5
+
+The number of Nodes per level:
+
+	- Level 1: 5 Nodes.
+	- Level 2: 3 Nodes.
+	- Level 3: 4 Nodes.
+	- Level 4: 7 Nodes.
+	- Level 5: 6 Nodes.
+
+Distance to each Node of each Level:
+
+	- Level 1:
+
+		* Distance to Node 1: 66 meters
+		* Distance to Node 2: 24 meters
+		* Distance to Node 3: 27 meters
+		* Distance to Node 4: 30 meters
+		* Distance to Node 5: 77 meters
+
+	- Level 2:
+
+		* Distance to Node 1: 31 meters
+		* Distance to Node 2: 68 meters
+		* Distance to Node 3: 40 meters
+
+	- Level 3:
+
+		* Distance to Node 1: 67 meters
+		* Distance to Node 2: 53 meters
+		* Distance to Node 3: 65 meters
+		* Distance to Node 4: 67 meters
+
+	- Level 4:
+
+		* Distance to Node 1: 64 meters
+		* Distance to Node 2: 77 meters
+		* Distance to Node 3: 33 meters
+		* Distance to Node 4: 58 meters
+		* Distance to Node 5: 36 meters
+		* Distance to Node 6: 51 meters
+		* Distance to Node 7: 23 meters
+
+	- Level 5:
+
+		* Distance to Node 1: 49 meters
+		* Distance to Node 2: 25 meters
+		* Distance to Node 3: 51 meters
+		* Distance to Node 4: 47 meters
+		* Distance to Node 5: 30 meters
+		* Distance to Node 6: 26 meters
+
+
+Total number of paths: 2520 paths.
