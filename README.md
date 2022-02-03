@@ -1,2 +1,2 @@
 # fast-track
-This project is the implementation of the ant colony optimization algorithm (ACO), a probabilistic technique in computer science and operations research, for solving computational problems which can be reduced to finding good paths through graphs.
+This project is the implementation of the ant colony optimization algorithm (ACO), a probabilistic technique in computer science and operations research for solving computational problems which can be reduced to finding good paths through graphs. The project make use of heuristic mathematics in order to determine the shortest path from origin to desitnation, along a series of paths generated at random at the start of the algorithm.
